@@ -1,4 +1,4 @@
 #include <iostream>
 using namespace std;
 
-cout>>"Hi eibhann";
+cout>>"Hi world";
